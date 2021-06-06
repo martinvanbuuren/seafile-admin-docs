@@ -10,7 +10,7 @@ This tutorial assumes you run at least Apache 2.4.
 
 Install and enable apache modules
 
-On Ubuntu you can use:
+On Ubuntu/Debian you can use:
 
 ```bash
 sudo a2enmod rewrite
